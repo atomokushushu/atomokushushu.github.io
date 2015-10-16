@@ -6,10 +6,10 @@
 var Typer={
 	text: null,
 	accessCountimer:null,
-	index:0, // current cursor position
-	speed:2, // speed of the Typer
-	file:"", //file, must be setted
-	init: function(){// inizialize Hacker Typer
+	index:0,
+	speed:2,
+	file:"",
+	init: function(){
 		accessCountimer=setInterval(function(){
 			Typer.updLstChr();
 		}
