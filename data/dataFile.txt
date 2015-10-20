@@ -7,7 +7,7 @@ Developer at <a href="http://aloalabs.com">AloaLabs, LLC</a><!- oqwipjefqwioefjw
 
 <strong><ins>Technical Skills</ins></strong>: C++; Java; Python; Bootstrap; HTML/CSS<!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
-Need more info? <a href="/data/resume.pdf">Resume</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
+Need more info? <a href="/data/Resume.pdf">Resume</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
 Contact me at <a href="mailto:juan.s.hoyos@vanderbilt.edu">juan.s.hoyos@vanderbilt.edu</a>!<br/>
 
