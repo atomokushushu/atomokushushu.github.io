@@ -1,7 +1,7 @@
 ﻿<span id="a">hoyojs@ubuntu</span>:<span id="b">~</span><span id="c">$</span> ./run<br/><br/>
 <p style="font-size: 2em">Juan Sebastian Hoyos Ayala</p><!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 
-Developer at <a href="http://aloalabs.com">AloaLabs, LLC</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
+Software Development Engineer Intern at <a href="http://microsoft.com">Microsoft</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
 <strong><ins>Interests</ins></strong>: Origami, Algorithm optimization, Math, Android, Hispanic Literature, Hacks, Squash, Learning.<br\>
 
