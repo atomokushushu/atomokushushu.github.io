@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    font-family: "Salvo Serif Cond",Georgia,"Times New Roman",Times,serif;
+}
+
+h1 {
+    color: navy;
+}
+
+.timeline_container {
+    margin: 15px;
+}
