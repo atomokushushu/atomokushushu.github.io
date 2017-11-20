@@ -44,5 +44,5 @@ body {
 
 #header {
     position: relative;
-    box-shadow: 0 2px 4px #BDBDBD
+    box-shadow: 2px 5px 15px rgba(0,0,0,.15);
 }
